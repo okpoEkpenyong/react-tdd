@@ -1,2 +1,2 @@
 # react-tdd
-Testing-driving React with enyme and webdriverIO 
+Testing-driving React with enzyme and webdriverIO 
